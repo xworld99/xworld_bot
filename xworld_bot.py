@@ -1,6 +1,6 @@
 import random
 
-BOT_VERSION = 5
+BOT_VERSION = 6
 
 def wrd_count(user_inpt):
     if len(user_inpt) > 0:
